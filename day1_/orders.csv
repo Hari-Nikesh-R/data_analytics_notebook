@@ -1,0 +1,101 @@
+order_id,customer_id,product_category,product_name,price,quantity,discount_pct,purchase_amount,payment_method,device,session_duration_mins,order_date,returned
+ORD001,C001,Electronics,Laptop,60000,1,0.1,54000.0,UPI,Mobile App,45,2026-01-05 10:30,No
+ORD002,C002,Electronics,Wireless Mouse,1200,2,0.0,2400.0,Credit Card,Desktop,15,2026-01-06 14:15,No
+ORD003,C003,Electronics,Mechanical Keyboard,2500,1,0.05,2375.0,UPI,Mobile App,20,2026-01-07 16:45,No
+ORD004,C004,Fashion,Running Shoes,3500,1,0.15,2975.0,COD,Mobile App,30,2026-01-08 11:20,Yes
+ORD005,C005,Grocery,Basmati Rice,650,3,0.0,1950.0,Net Banking,Desktop,10,2026-01-09 09:00,No
+ORD006,C006,Home & Living,Desk Lamp,1500,2,0.1,2700.0,UPI,Mobile App,25,2026-01-10 18:30,No
+ORD007,C008,Electronics,Smartphone,32000,1,0.1,28800.0,UPI,Mobile App,127,2026-02-06 18:47,No
+ORD008,C009,Grocery,Tea Pack,450,3,0.0,1350.0,UPI,Mobile App,39,2026-06-14 08:35,No
+ORD009,C010,Home & Living,Cookware Set,4800,1,0.0,4800.0,Net Banking,Mobile App,70,2026-01-12 20:51,No
+ORD010,C011,Fashion,Cotton T-Shirt,800,2,0.0,1600.0,UPI,Tablet,45,2026-02-03 14:06,No
+ORD011,C012,Grocery,Tea Pack,450,3,0.0,1350.0,COD,Mobile App,46,2026-04-17 09:35,No
+ORD012,C013,Grocery,Tea Pack,450,3,0.0,1350.0,UPI,Mobile App,40,2026-03-26 09:54,No
+ORD013,C014,Fashion,Running Shoes,3500,1,0.15,2975.0,UPI,Desktop,63,2026-04-11 11:42,No
+ORD014,C015,Home & Living,Desk Lamp,1500,1,0.0,1500.0,UPI,Desktop,49,2026-04-18 12:59,No
+ORD015,C016,Electronics,Wireless Mouse,1200,3,0.05,3420.0,UPI,Mobile App,56,2026-04-01 14:17,Yes
+ORD016,C017,Home & Living,Cookware Set,4800,1,0.0,4800.0,Net Banking,Mobile App,73,2026-06-24 15:09,No
+ORD017,C018,Home & Living,Cookware Set,4800,1,0.15,4080.0,Credit Card,Mobile App,69,2026-04-13 11:08,No
+ORD018,C019,Home & Living,Memory Foam Pillow,1900,1,0.0,1900.0,Debit Card,Mobile App,47,2026-04-29 17:04,No
+ORD019,C020,Grocery,Basmati Rice (5kg),650,4,0.05,2470.0,UPI,Desktop,57,2026-07-14 09:43,No
+ORD020,C001,Fashion,Denim Jeans,2200,2,0.0,4400.0,Credit Card,Mobile App,65,2026-07-14 19:16,No
+ORD021,C002,Electronics,Headphones,4500,1,0.15,3825.0,Credit Card,Desktop,62,2026-03-02 10:23,No
+ORD022,C003,Home & Living,Memory Foam Pillow,1900,1,0.05,1805.0,COD,Mobile App,51,2026-08-11 20:19,No
+ORD023,C004,Grocery,Tea Pack,450,2,0.0,900.0,COD,Desktop,40,2026-05-27 20:08,No
+ORD024,C005,Grocery,Olive Oil (1L),950,1,0.1,855.0,UPI,Desktop,41,2026-03-06 16:48,No
+ORD025,C006,Home & Living,Cookware Set,4800,1,0.1,4320.0,UPI,Mobile App,71,2026-05-23 15:07,No
+ORD026,C007,Fashion,Cotton T-Shirt,800,1,0.0,800.0,UPI,Mobile App,41,2026-06-21 08:14,Yes
+ORD027,C008,Fashion,Cotton T-Shirt,800,1,0.0,800.0,UPI,Desktop,36,2026-02-13 19:59,No
+ORD028,C009,Grocery,Basmati Rice (5kg),650,1,0.05,617.5,UPI,Mobile App,35,2026-05-01 13:27,No
+ORD029,C010,Home & Living,Cookware Set,4800,1,0.15,4080.0,UPI,Tablet,70,2026-04-24 19:21,No
+ORD030,C011,Electronics,Wireless Mouse,1200,1,0.0,1200.0,UPI,Mobile App,45,2026-03-23 15:15,No
+ORD031,C012,Grocery,Basmati Rice (5kg),650,4,0.0,2600.0,Credit Card,Desktop,50,2026-01-14 09:59,No
+ORD032,C013,Electronics,Headphones,4500,2,0.1,8100.0,UPI,Mobile App,84,2026-01-26 10:24,Yes
+ORD033,C014,Fashion,Denim Jeans,2200,2,0.1,3960.0,Debit Card,Desktop,65,2026-07-30 16:42,No
+ORD034,C015,Electronics,Wireless Mouse,1200,2,0.0,2400.0,Credit Card,Mobile App,49,2026-07-21 13:03,Yes
+ORD035,C016,Grocery,Olive Oil (1L),950,1,0.0,950.0,UPI,Mobile App,42,2026-06-12 09:43,No
+ORD036,C017,Electronics,Smartphone,32000,1,0.1,28800.0,UPI,Mobile App,132,2026-06-28 17:36,No
+ORD037,C018,Electronics,Wireless Mouse,1200,3,0.05,3420.0,UPI,Mobile App,59,2026-06-25 12:29,No
+ORD038,C019,Electronics,Smartphone,32000,1,0.05,30400.0,COD,Tablet,134,2026-01-29 16:13,No
+ORD039,C020,Fashion,Cotton T-Shirt,800,1,0.0,800.0,UPI,Mobile App,37,2026-05-30 19:19,No
+ORD040,C001,Home & Living,Desk Lamp,1500,1,0.1,1350.0,Net Banking,Mobile App,49,2026-03-19 09:56,No
+ORD041,C002,Electronics,Headphones,4500,2,0.1,8100.0,UPI,Mobile App,86,2026-07-05 18:54,No
+ORD042,C003,Fashion,Denim Jeans,2200,1,0.0,2200.0,UPI,Mobile App,57,2026-01-11 13:49,Yes
+ORD043,C004,Electronics,Headphones,4500,2,0.15,7650.0,UPI,Mobile App,82,2026-07-06 10:34,Yes
+ORD044,C005,Grocery,Tea Pack,450,5,0.0,2250.0,UPI,Mobile App,54,2026-08-02 21:02,No
+ORD045,C006,Home & Living,Desk Lamp,1500,1,0.0,1500.0,Net Banking,Desktop,46,2026-04-25 17:47,No
+ORD046,C007,Electronics,Headphones,4500,1,0.1,4050.0,COD,Mobile App,60,2026-07-30 14:51,No
+ORD047,C008,Home & Living,Memory Foam Pillow,1900,1,0.05,1805.0,UPI,Desktop,46,2026-01-20 21:30,No
+ORD048,C009,Grocery,Basmati Rice (5kg),650,2,0.05,1235.0,Credit Card,Mobile App,41,2026-04-23 13:17,No
+ORD049,C010,Fashion,Denim Jeans,2200,2,0.2,3520.0,COD,Mobile App,65,2026-05-28 13:01,Yes
+ORD050,C011,Electronics,Headphones,4500,2,0.0,9000.0,UPI,Mobile App,81,2026-07-31 13:27,No
+ORD051,C012,Electronics,Smartphone,32000,1,0.1,28800.0,Debit Card,Mobile App,126,2026-01-11 16:59,No
+ORD052,C013,Home & Living,Cookware Set,4800,1,0.1,4320.0,Credit Card,Mobile App,67,2026-04-05 17:20,No
+ORD053,C014,Home & Living,Cookware Set,4800,1,0.15,4080.0,UPI,Desktop,64,2026-07-08 12:35,No
+ORD054,C015,Home & Living,Desk Lamp,1500,2,0.0,3000.0,UPI,Mobile App,62,2026-08-12 08:19,No
+ORD055,C016,Home & Living,Memory Foam Pillow,1900,2,0.05,3610.0,UPI,Mobile App,64,2026-05-12 20:57,No
+ORD056,C017,Electronics,Headphones,4500,1,0.1,4050.0,Credit Card,Desktop,68,2026-02-03 21:48,No
+ORD057,C018,Electronics,Wireless Mouse,1200,1,0.0,1200.0,COD,Mobile App,37,2026-06-16 21:49,Yes
+ORD058,C019,Home & Living,Desk Lamp,1500,1,0.1,1350.0,UPI,Mobile App,46,2026-07-06 08:57,No
+ORD059,C020,Electronics,Smartphone,32000,1,0.0,32000.0,Credit Card,Desktop,130,2026-05-09 08:35,No
+ORD060,C001,Electronics,Smartphone,32000,1,0.0,32000.0,COD,Desktop,135,2026-06-12 13:48,No
+ORD061,C002,Home & Living,Cookware Set,4800,1,0.15,4080.0,Debit Card,Desktop,67,2026-05-12 15:16,No
+ORD062,C003,Home & Living,Desk Lamp,1500,2,0.1,2700.0,UPI,Mobile App,61,2026-07-12 12:15,No
+ORD063,C004,Grocery,Olive Oil (1L),950,1,0.0,950.0,Credit Card,Mobile App,36,2026-07-10 11:04,No
+ORD064,C005,Grocery,Olive Oil (1L),950,2,0.1,1710.0,UPI,Mobile App,43,2026-07-27 17:44,Yes
+ORD065,C006,Grocery,Tea Pack,450,3,0.0,1350.0,UPI,Tablet,39,2026-04-20 21:57,No
+ORD066,C007,Grocery,Olive Oil (1L),950,1,0.1,855.0,Credit Card,Mobile App,36,2026-04-20 13:42,No
+ORD067,C008,Home & Living,Cookware Set,4800,1,0.1,4320.0,Credit Card,Tablet,63,2026-04-21 17:36,No
+ORD068,C009,Home & Living,Desk Lamp,1500,2,0.0,3000.0,UPI,Mobile App,60,2026-04-04 11:29,No
+ORD069,C010,Fashion,Running Shoes,3500,1,0.15,2975.0,Credit Card,Desktop,57,2026-07-21 16:03,No
+ORD070,C011,Electronics,Wireless Mouse,1200,3,0.0,3600.0,UPI,Mobile App,67,2026-03-15 11:53,Yes
+ORD071,C012,Electronics,Wireless Mouse,1200,1,0.05,1140.0,COD,Mobile App,47,2026-05-10 19:16,No
+ORD072,C013,Grocery,Tea Pack,450,5,0.0,2250.0,UPI,Tablet,50,2026-01-17 12:36,No
+ORD073,C014,Fashion,Running Shoes,3500,1,0.0,3500.0,Credit Card,Desktop,65,2026-02-06 19:49,No
+ORD074,C015,Grocery,Tea Pack,450,2,0.0,900.0,Credit Card,Mobile App,38,2026-01-28 16:41,No
+ORD075,C016,Fashion,Running Shoes,3500,1,0.0,3500.0,Credit Card,Tablet,62,2026-08-11 15:45,Yes
+ORD076,C017,Home & Living,Cookware Set,4800,1,0.15,4080.0,Credit Card,Desktop,68,2026-08-10 19:37,No
+ORD077,C018,Electronics,Wireless Mouse,1200,1,0.05,1140.0,Credit Card,Mobile App,44,2026-06-16 18:24,No
+ORD078,C019,Fashion,Cotton T-Shirt,800,1,0.1,720.0,UPI,Mobile App,34,2026-03-23 17:44,No
+ORD079,C020,Electronics,Laptop,60000,1,0.0,60000.0,Credit Card,Desktop,163,2026-07-24 11:44,No
+ORD080,C001,Grocery,Basmati Rice (5kg),650,2,0.0,1300.0,UPI,Mobile App,40,2026-03-14 12:42,No
+ORD081,C002,Grocery,Olive Oil (1L),950,2,0.1,1710.0,Debit Card,Mobile App,51,2026-03-21 12:16,No
+ORD082,C003,Electronics,Wireless Mouse,1200,2,0.0,2400.0,Credit Card,Tablet,57,2026-03-01 11:47,No
+ORD083,C004,Grocery,Tea Pack,450,5,0.0,2250.0,UPI,Desktop,49,2026-04-13 10:19,Yes
+ORD084,C005,Electronics,Headphones,4500,2,0.0,9000.0,Credit Card,Mobile App,80,2026-02-12 18:55,No
+ORD085,C006,Electronics,Laptop,60000,1,0.05,57000.0,UPI,Mobile App,164,2026-01-24 12:55,No
+ORD086,C007,Electronics,Smartphone,32000,1,0.05,30400.0,Credit Card,Mobile App,126,2026-02-18 10:51,No
+ORD087,C008,Electronics,Smartphone,32000,1,0.0,32000.0,Credit Card,Desktop,136,2026-08-01 17:14,No
+ORD088,C009,Grocery,Basmati Rice (5kg),650,2,0.05,1235.0,UPI,Tablet,47,2026-06-18 08:39,No
+ORD089,C010,Home & Living,Memory Foam Pillow,1900,1,0.0,1900.0,UPI,Desktop,49,2026-02-24 16:04,No
+ORD090,C011,Grocery,Basmati Rice (5kg),650,4,0.05,2470.0,UPI,Mobile App,53,2026-03-24 19:55,No
+ORD091,C012,Electronics,Wireless Mouse,1200,2,0.0,2400.0,UPI,Mobile App,55,2026-02-18 12:52,No
+ORD092,C013,Electronics,Headphones,4500,2,0.15,7650.0,UPI,Desktop,85,2026-05-10 19:19,No
+ORD093,C014,Grocery,Olive Oil (1L),950,2,0.1,1710.0,Net Banking,Mobile App,44,2026-07-18 13:38,No
+ORD094,C015,Electronics,Wireless Mouse,1200,3,0.0,3600.0,Credit Card,Desktop,67,2026-07-25 20:11,No
+ORD095,C016,Grocery,Basmati Rice (5kg),650,2,0.0,1300.0,Net Banking,Mobile App,48,2026-02-03 15:22,No
+ORD096,C017,Home & Living,Desk Lamp,1500,1,0.0,1500.0,Credit Card,Mobile App,46,2026-06-29 14:52,No
+ORD097,C018,Grocery,Basmati Rice (5kg),650,1,0.05,617.5,COD,Mobile App,33,2026-04-24 21:32,No
+ORD098,C019,Home & Living,Desk Lamp,1500,2,0.1,2700.0,UPI,Mobile App,51,2026-07-23 15:40,No
+ORD099,C020,Electronics,Wireless Mouse,1200,2,0.0,2400.0,Credit Card,Mobile App,53,2026-02-11 08:40,No
+ORD100,C001,Home & Living,Cookware Set,4800,1,0.1,4320.0,UPI,Mobile App,69,2026-03-09 21:58,No

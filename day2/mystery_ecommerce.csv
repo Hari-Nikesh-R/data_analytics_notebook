@@ -1,0 +1,176 @@
+order_id,customer_id,age,city,product_category,product_name,price,quantity,discount_pct,purchase_amount,payment_method,device,session_duration_mins,order_time,returned
+ORD0001,C038,33.0,Bengaluru,Fashion,Running Shoes,3200,1,0.1,2880.0,UPI,Tablet,47,2026-02-15 13:31,No
+ORD0002,C013,45.0,Hyderabad,Fashion,Denim Jeans,2200,1,0.1,1980.0,UPI,Mobile App,41,2026-02-21 12:40,No
+ORD0003,C020,44.0,Coimbatore,Fashion,Denim Jeans,2200,1,0.1,1980.0,UPI,Mobile App,43,2026-02-18 15:50,No
+ORD0004,C027,20.0,Bengaluru,Electronics,Headphones,4200,1,0.0,4200.0,UPI,Mobile App,49,2026-02-24 20:23,No
+ORD0005,C003,50.0,Coimbatore,Home & Living,Desk Lamp,1400,1,0.0,1400.0,Net Banking,Mobile App,39,2026-02-24 19:36,No
+ORD0006,C020,48.0,Chennai,Fashion,Denim Jeans,2200,3,0.0,6600.0,Credit Card,Desktop,58,2026-03-07 20:56,Yes
+ORD0007,C039,28.0,Chennai,Home & Living,Cookware Set,4200,1,0.0,4200.0,Net Banking,Tablet,50,2026-03-08 16:56,No
+ORD0008,C022,37.0,Kochi,Home & Living,Desk Lamp,1400,1,0.1,1260.0,UPI,Desktop,35,2026-03-02 09:12,No
+ORD0009,C010,37.0,Kochi,Grocery,Honey (500g),350,1,0.0,350.0,UPI,Tablet,28,2026-02-21 12:06,No
+ORD0010,C001,50.0,Kochi,Home & Living,Cookware Set,4200,1,0.1,3780.0,Credit Card,Mobile App,49,2026-02-16 21:17,No
+ORD0011,C021,23.0,Kochi,Grocery,Basmati Rice (5kg),650,3,0.05,1852.5,UPI,Mobile App,39,2026-02-26 15:40,No
+ORD0012,C010,43.0,Madurai,Electronics,Wireless Mouse,1200,1,0.05,1140.0,Credit Card,Desktop,38,2026-03-15 12:43,Yes
+ORD0013,C009,47.0,,Home & Living,Cookware Set,4200,1,0.05,3990.0,UPI,Mobile App,53,2026-02-17 12:56,No
+ORD0014,C003,37.0,Madurai,Fashion,Denim Jeans,2200,1,0.05,2090.0,COD,Desktop,42,2026-03-01 19:03,No
+ORD0015,C030,23.0,Chennai,Electronics,Laptop,55000,1,0.05,52250.0,UPI,Desktop,116,2026-03-12 11:31,No
+ORD0016,C008,46.0,Chennai,Electronics,Smartphone,28000,2,0.05,53200.0,UPI,Mobile App,110,2026-02-10 16:45,No
+ORD0017,C014,32.0,Hyderabad,Electronics,Wireless Mouse,1200,2,0.1,2160.0,COD,Mobile App,44,2026-03-10 21:42,No
+ORD0018,C034,50.0,Coimbatore,Fashion,Denim Jeans,2200,1,0.0,2200.0,COD,Mobile App,44,2026-02-09 18:42,No
+ORD0019,C029,23.0,Chennai,Electronics,Mechanical Keyboard,2800,1,0.0,2800.0,UPI,Mobile App,43,2026-02-19 19:33,No
+ORD0020,C025,35.0,Bengaluru,Home & Living,Desk Lamp,1400,2,0.1,2520.0,UPI,Mobile App,46,2026-02-22 20:02,No
+ORD0021,C016,21.0,Coimbatore,Fashion,Leather Jacket,4500,1,0.0,4500.0,UPI,Mobile App,53,2026-02-13 13:48,No
+ORD0022,C020,43.0,Hyderabad,Grocery,Basmati Rice (5kg),650,2,0.05,1235.0,COD,Mobile App,37,2026-03-15 20:41,No
+ORD0023,C004,44.0,chennai,Home & Living,Cookware Set,4200,1,0.0,4200.0,UPI,Mobile App,51,2026-03-03 09:54,No
+ORD0024,C025,48.0,Bengaluru,Fashion,Leather Jacket,4500,3,0.0,13500.0,Debit Card,Mobile App,72,2026-02-27 20:42,No
+ORD0025,C014,53.0,Chennai,Grocery,Honey (500g),350,1,0.0,350.0,UPI,Mobile App,25,2026-02-20 12:26,No
+ORD0026,C001,28.0,Hyderabad,Home & Living,Memory Pillow,1800,1,0.05,1710.0,UPI,Desktop,37,2026-02-24 16:15,No
+ORD0027,C040,44.0,Coimbatore,Home & Living,Desk Lamp,1400,3,0.0,4200.0,Credit Card,Desktop,52,2026-02-18 14:53,No
+ORD0028,C015,26.0,Chennai,Home & Living,Cookware Set,4200,1,0.0,4200.0,Debit Card,Mobile App,49,2026-02-24 20:53,No
+ORD0029,C011,25.0,Coimbatore,Fashion,Running Shoes,3200,1,0.1,2880.0,Credit Card,Mobile App,44,2026-03-08 18:46,No
+ORD0030,C031,51.0,Hyderabad,Electronics,Smartphone,28000,1,0.05,26600.0,UPI,Mobile App,89,2026-02-09 11:10,No
+ORD0031,C023,34.0,Kochi,Electronics,Smartphone,28000,1,0.1,25200.0,Debit Card,Mobile App,89,2026-02-03 11:17,Yes
+ORD0032,C027,34.0,Madurai,Fashion,Cotton T-Shirt,850,1,0.1,765.0,COD,Mobile App,34,2026-03-17 15:20,No
+ORD0033,C034,47.0,Coimbatore,Home & Living,Desk Lamp,1400,1,0.0,1400.0,UPI,Mobile App,34,2026-02-25 10:33,No
+ORD0034,C037,39.0,Coimbatore,Fashion,Cotton T-Shirt,850,1,0.05,807.5,Credit Card,Mobile App,35,2026-02-26 21:00,No
+ORD0035,C026,39.0,Chennai,Electronics,Smartphone,28000,1,0.0,,UPI,Mobile App,91,2026-03-08 19:52,No
+ORD0036,C024,35.0,Bengaluru,Fashion,Leather Jacket,4500,1,0.0,4500.0,UPI,Desktop,51,2026-02-01 16:29,No
+ORD0037,C027,24.0,Bengaluru,Home & Living,Memory Pillow,1800,2,0.0,3600.0,UPI,Mobile App,48,2026-03-04 09:51,No
+ORD0038,C005,31.0,Madurai,Electronics,Laptop,55000,2,0.05,104500.0,COD,Mobile App,138,2026-02-18 21:13,No
+ORD0039,C034,21.0,Coimbatore,Grocery,Organic Tea,400,2,0.1,720.0,Credit Card,Mobile App,33,2026-02-10 14:44,No
+ORD0040,C039,34.0,Hyderabad,Grocery,Organic Tea,400,1,0.1,360.0,UPI,Tablet,27,2026-03-05 17:50,No
+ORD0041,C024,54.0,Bengaluru,Fashion,Cotton T-Shirt,850,2,0.0,1700.0,UPI,Mobile App,41,2026-02-20 10:19,Yes
+ORD0042,C015,26.0,Hyderabad,Fashion,Denim Jeans,2200,1,0.05,2090.0,UPI,Desktop,42,2026-02-06 16:21,No
+ORD0043,C022,29.0,Chennai,Home & Living,Desk Lamp,1400,1,0.05,1330.0,UPI,Mobile App,37,2026-02-05 15:12,No
+ORD0044,C006,30.0,Bengaluru,Fashion,Running Shoes,3200,1,0.05,3040.0,COD,Mobile App,50,2026-03-02 10:56,No
+ORD0045,C011,31.0,Bengaluru,Electronics,Wireless Mouse,1200,1,0.1,1080.0,Debit Card,Tablet,38,2026-02-18 09:53,No
+ORD0046,C004,28.0,Coimbatore,Home & Living,Desk Lamp,1400,1,0.05,1330.0,Debit Card,Mobile App,39,2026-02-03 17:13,No
+ORD0047,C010,26.0,Madurai,Home & Living,Desk Lamp,1400,1,0.1,1260.0,UPI,Mobile App,39,2026-03-05 10:48,No
+ORD0048,C030,48.0,Coimbatore,Fashion,Running Shoes,3200,1,0.1,2880.0,Debit Card,Tablet,43,2026-02-12 10:42,No
+ORD0049,C004,33.0,Madurai,Electronics,Wireless Mouse,1200,1,0.05,1140.0,UPI,Desktop,32,2026-02-08 09:40,No
+ORD0050,C036,38.0,Coimbatore,Home & Living,Desk Lamp,1400,3,0.1,3780.0,Debit Card,Mobile App,53,2026-02-05 12:20,No
+ORD0051,C012,45.0,Bengaluru,Grocery,Basmati Rice (5kg),650,2,0.0,1300.0,Credit Card,Mobile App,33,2026-02-05 11:40,No
+ORD0052,C004,41.0,Coimbatore,Fashion,Denim Jeans,2200,1,0.1,1980.0,Debit Card,Desktop,44,2026-02-08 21:31,No
+ORD0053,C037,55.0,Kochi,Fashion,Running Shoes,3200,1,0.0,3200.0,UPI,Desktop,48,2026-02-17 19:02,No
+ORD0054,C003,37.0,Bengaluru,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,50,2026-02-08 21:29,No
+ORD0055,C027,26.0,Hyderabad,Grocery,Olive Oil (1L),950,1,0.05,902.5,Credit Card,Desktop,34,2026-02-12 14:14,No
+ORD0056,C038,43.0,CHENNAI,Home & Living,Desk Lamp,1400,3,0.05,3990.0,Debit Card,Mobile App,54,2026-03-06 09:01,No
+ORD0057,C017,38.0,Madurai,Fashion,Leather Jacket,4500,1,0.05,4275.0,UPI,Mobile App,55,2026-03-07 15:51,Yes
+ORD0058,C019,36.0,Kochi,Fashion,Denim Jeans,2200,1,0.05,2090.0,Credit Card,Tablet,39,2026-02-24 13:49,Yes
+ORD0059,C015,55.0,Kochi,Home & Living,Memory Pillow,1800,3,0.05,5130.0,Credit Card,Desktop,54,2026-03-07 18:26,No
+ORD0060,C022,26.0,Chennai,Fashion,Leather Jacket,4500,3,0.1,12150.0,Credit Card,Mobile App,70,2026-02-25 17:29,Yes
+ORD0061,C024,39.0,Coimbatore,Home & Living,Cookware Set,4200,1,0.05,3990.0,Net Banking,Mobile App,53,2026-03-10 21:07,No
+ORD0062,C036,50.0,Chennai,Home & Living,Cookware Set,4200,2,0.05,7980.0,UPI,Mobile App,64,2026-02-08 17:02,No
+ORD0063,C015,49.0,Chennai,Home & Living,Memory Pillow,1800,2,0.05,3420.0,Credit Card,Mobile App,47,2026-03-18 17:53,No
+ORD0064,C025,50.0,Madurai,Fashion,Leather Jacket,4500,1,0.0,4500.0,Debit Card,Tablet,55,2026-02-26 16:20,No
+ORD0065,C034,40.0,Coimbatore,Home & Living,Desk Lamp,1400,3,0.0,4200.0,Debit Card,Mobile App,49,2026-02-15 16:14,Yes
+ORD0066,C015,43.0,Chennai,Electronics,Wireless Mouse,1200,1,0.05,1140.0,Credit Card,Mobile App,36,2026-02-17 16:04,No
+ORD0067,C003,28.0,Madurai,Home & Living,Desk Lamp,1400,2,0.0,2800.0,Debit Card,Mobile App,46,2026-02-26 20:48,No
+ORD0068,C040,38.0,Hyderabad,Fashion,Denim Jeans,2200,2,0.1,3960.0,UPI,Mobile App,52,2026-03-08 12:53,No
+ORD0069,C027,39.0,Madurai,Fashion,Leather Jacket,4500,3,0.1,12150.0,Credit Card,Desktop,71,2026-02-24 14:56,Yes
+ORD0070,C018,50.0,Coimbatore,Grocery,Organic Tea,400,1,0.1,360.0,UPI,Mobile App,26,2026-02-13 21:34,No
+ORD0071,C005,45.0,Coimbatore,Home & Living,Desk Lamp,1400,1,0.05,1330.0,UPI,Tablet,40,2026-03-13 16:21,No
+ORD0072,C015,34.0,Madurai,Electronics,Smartphone,28000,3,0.0,84000.0,UPI,Mobile App,134,2026-03-04 18:47,No
+ORD0073,C019,43.0,Chennai,Grocery,Honey (500g),350,2,0.0,700.0,UPI,Mobile App,29,2026-02-12 11:03,No
+ORD0074,C008,46.0,Hyderabad,Electronics,Wireless Mouse,1200,1,0.1,1080.0,Net Banking,Mobile App,33,2026-03-05 20:11,No
+ORD0075,C008,47.0,Hyderabad,Home & Living,Desk Lamp,1400,2,0.05,2660.0,Debit Card,Mobile App,48,2026-03-06 17:36,No
+ORD0076,C029,40.0,Chennai,Electronics,Laptop,55000,1,0.05,52250.0,UPI,Mobile App,115,2026-02-24 09:11,No
+ORD0077,C039,45.0,Kochi,Electronics,Laptop,55000,1,0.0,55000.0,UPI,Mobile App,118,2026-02-09 15:52,No
+ORD0078,C008,46.0,Coimbatore,Grocery,Olive Oil (1L),950,1,0.0,950.0,Debit Card,Mobile App,34,2026-03-18 20:21,No
+ORD0079,C003,,Bengaluru,Electronics,Smartphone,28000,2,0.05,53200.0,COD,Mobile App,114,2026-03-13 21:52,No
+ORD0080,C007,25.0,Madurai,Fashion,Denim Jeans,2200,1,0.05,2090.0,UPI,Desktop,41,2026-02-16 11:12,Yes
+ORD0081,C025,42.0,Hyderabad,Electronics,Mechanical Keyboard,2800,1,0.05,2660.0,Credit Card,Mobile App,48,2026-02-06 16:21,No
+ORD0082,C033,29.0,Coimbatore,Grocery,Organic Tea,400,1,0.05,380.0,UPI,Mobile App,29,2026-02-06 15:50,No
+ORD0083,C035,53.0,Madurai,Fashion,Running Shoes,3200,2,0.0,6400.0,Credit Card,Mobile App,62,2026-02-08 14:20,No
+ORD0084,C036,28.0,Chennai,Home & Living,Cookware Set,4200,2,0.05,7980.0,Credit Card,Mobile App,62,2026-03-17 13:29,No
+ORD0085,C019,23.0,Bengaluru,Grocery,Olive Oil (1L),950,1,0.05,902.5,UPI,Mobile App,30,2026-03-06 10:01,No
+ORD0086,C002,33.0,Chennai,Fashion,Cotton T-Shirt,850,1,0.0,850.0,UPI,Desktop,32,2026-03-10 12:28,No
+ORD0087,C016,24.0,Chennai,Electronics,Wireless Mouse,1200,2,0.1,2160.0,Net Banking,Mobile App,44,2026-02-17 15:57,No
+ORD0088,C036,52.0,Madurai,Grocery,Honey (500g),350,1,0.05,332.5,Credit Card,Mobile App,28,2026-02-27 14:45,No
+ORD0089,C029,38.0,Madurai ,Electronics,Mechanical Keyboard,2800,1,0.0,2800.0,Net Banking,Desktop,44,2026-03-01 21:54,No
+ORD0090,C028,43.0,Kochi,Grocery,Organic Tea,400,2,0.05,760.0,Debit Card,Mobile App,34,2026-03-16 21:15,No
+ORD0091,C031,24.0,Chennai,Electronics,Headphones,4200,2,0.0,8400.0,UPI,Tablet,64,2026-02-08 14:59,No
+ORD0092,C036,35.0,Chennai,Grocery,Honey (500g),350,1,0.0,350.0,Debit Card,Mobile App,23,2026-02-08 12:30,No
+ORD0093,C032,25.0,Hyderabad,Electronics,Mechanical Keyboard,2800,1,0.05,2660.0,Credit Card,Mobile App,45,2026-03-18 19:21,No
+ORD0094,C023,32.0,Madurai,Fashion,Cotton T-Shirt,850,2,0.05,1615.0,UPI,Mobile App,40,2026-03-01 20:11,Yes
+ORD0095,C038,52.0,Chennai,Home & Living,Memory Pillow,1800,1,0.0,1800.0,UPI,Mobile App,40,2026-02-22 09:28,No
+ORD0096,C021,38.0,Bengaluru,Fashion,Cotton T-Shirt,850,2,0.1,1530.0,Credit Card,Tablet,38,2026-03-08 18:58,No
+ORD0097,C035,36.0,Hyderabad,Electronics,Laptop,55000,1,0.0,55000.0,Credit Card,Desktop,116,2026-02-20 11:14,No
+ORD0098,C007,38.0,Chennai,Grocery,Basmati Rice (5kg),650,2,0.1,1170.0,Net Banking,Mobile App,37,2026-03-03 11:58,No
+ORD0099,C004,26.0,Hyderabad,Grocery,Basmati Rice (5kg),650,2,0.1,1170.0,Credit Card,Mobile App,38,2026-03-09 17:26,No
+ORD0100,C031,300.0,Coimbatore,Fashion,Cotton T-Shirt,850,1,0.0,850.0,UPI,Desktop,33,2026-02-03 18:16,No
+ORD0101,C035,38.0,Madurai,Electronics,Smartphone,28000,2,0.0,56000.0,Debit Card,Mobile App,116,2026-02-15 14:57,No
+ORD0102,C012,32.0,Coimbatore,Electronics,Headphones,4200,1,0.1,3780.0,Debit Card,Mobile App,49,2026-02-02 15:43,No
+ORD0103,C020,42.0,Chennai,Home & Living,Memory Pillow,1800,1,0.0,1800.0,UPI,Mobile App,40,2026-02-28 16:25,No
+ORD0104,C026,37.0,Coimbatore,Electronics,Headphones,4200,3,0.0,12600.0,UPI,Mobile App,71,2026-02-15 13:26,No
+ORD0105,C021,40.0,Kochi,Grocery,Basmati Rice (5kg),650,1,0.05,617.5,UPI,Mobile App,28,2026-03-16 10:15,No
+ORD0106,C032,21.0,Bengaluru,Grocery,Organic Tea,400,1,0.05,380.0,COD,Mobile App,25,2026-02-15 13:50,No
+ORD0107,C007,20.0,Hyderabad,Fashion,Running Shoes,3200,1,0.05,3040.0,Debit Card,Desktop,48,2026-02-21 19:41,No
+ORD0108,C015,25.0,Hyderabad,Fashion,Denim Jeans,2200,2,0.1,3960.0,UPI,Desktop,52,2026-02-19 12:06,No
+ORD0109,C008,51.0,Chennai,Fashion,Leather Jacket,4500,1,0.1,4050.0,Credit Card,Mobile App,54,2026-02-23 10:32,No
+ORD0110,C034,41.0,Bengaluru,Home & Living,Desk Lamp,1400,1,0.05,1330.0,UPI,Mobile App,38,2026-03-18 14:27,No
+ORD0111,C026,25.0,Bengaluru,Home & Living,Desk Lamp,1400,1,0.0,1400.0,Credit Card,Desktop,35,2026-02-17 13:37,No
+ORD0112,C003,39.0,Hyderabad,Home & Living,Cookware Set,4200,1,0.0,4200.0,UPI,Mobile App,54,2026-03-10 12:57,No
+ORD0113,C014,45.0,Kochi,Home & Living,Memory Pillow,1800,1,0.0,1800.0,Credit Card,Desktop,40,2026-03-01 13:06,No
+ORD0114,C029,33.0,Coimbatore,Home & Living,Desk Lamp,1400,3,0.05,3990.0,Credit Card,Mobile App,54,2026-02-28 16:33,No
+ORD0115,C005,45.0,Coimbatore,Electronics,Smartphone,28000,2,0.0,56000.0,Debit Card,Desktop,114,2026-02-28 20:35,No
+ORD0116,C034,41.0,Coimbatore,Electronics,Mechanical Keyboard,2800,1,0.05,2660.0,UPI,Mobile App,43,2026-02-27 09:25,No
+ORD0117,C010,54.0,Coimbatore,Home & Living,Memory Pillow,1800,1,0.0,1800.0,Credit Card,Desktop,41,2026-03-04 19:58,No
+ORD0118,C003,21.0,Coimbatore,Grocery,Olive Oil (1L),950,2,0.05,1805.0,Credit Card,Mobile App,41,2026-02-24 10:30,No
+ORD0119,C024,48.0,Coimbatore,Grocery,Honey (500g),350,1,0.05,332.5,UPI,Mobile App,27,2026-02-14 20:14,No
+ORD0120,C017,44.0,Chennai,Electronics,Mechanical Keyboard,2800,3,0.0,8400.0,UPI,Mobile App,64,2026-03-01 11:09,No
+ORD0121,C013,49.0,Bengaluru,Grocery,Olive Oil (1L),950,1,0.0,950.0,UPI,Mobile App,31,2026-02-10 16:36,No
+ORD0122,C023,55.0,Kochi,Electronics,Smartphone,28000,1,0.1,25200.0,UPI,Mobile App,89,2026-02-25 11:27,No
+ORD0123,C003,49.0,Coimbatore,Electronics,Wireless Mouse,1200,1,0.1,1080.0,Debit Card,Mobile App,35,2026-02-08 11:19,No
+ORD0124,C015,46.0,Madurai,Home & Living,Memory Pillow,1800,1,0.0,1800.0,Credit Card,Tablet,40,2026-02-21 17:12,No
+ORD0125,C023,46.0,Bengaluru,Home & Living,Cookware Set,4200,1,0.0,4200.0,Debit Card,Mobile App,50,2026-03-05 16:09,No
+ORD0126,C001,27.0,Hyderabad,Electronics,Headphones,4200,1,0.05,3990.0,COD,Mobile App,52,2026-02-10 10:08,No
+ORD0127,C036,28.0,Hyderabad,Home & Living,Cookware Set,4200,1,0.1,3780.0,Debit Card,Mobile App,50,2026-02-17 09:08,Yes
+ORD0128,C022,51.0,Hyderabad,Grocery,Honey (500g),350,1,0.05,332.5,Credit Card,Desktop,28,2026-02-28 14:51,No
+ORD0129,C024,42.0,Bengaluru,Fashion,Denim Jeans,2200,1,0.0,2200.0,UPI,Desktop,44,2026-02-11 10:12,No
+ORD0130,C014,44.0,Madurai,Grocery,Basmati Rice (5kg),650,1,0.1,585.0,Net Banking,Mobile App,32,2026-02-21 21:07,No
+ORD0131,C006,24.0,Madurai,Grocery,Basmati Rice (5kg),650,2,0.0,1300.0,UPI,Mobile App,38,2026-02-19 11:53,No
+ORD0132,C017,50.0,Chennai,Electronics,Laptop,55000,1,0.0,55000.0,Net Banking,Mobile App,113,2026-03-15 10:37,No
+ORD0133,C028,22.0,Hyderabad,Fashion,Leather Jacket,4500,1,0.0,4500.0,UPI,Desktop,51,2026-02-06 19:29,No
+ORD0134,C036,38.0,Chennai,Fashion,Denim Jeans,2200,1,0.05,2090.0,Net Banking,Mobile App,41,2026-02-16 13:54,No
+ORD0135,C014,44.0,Hyderabad,Electronics,Smartphone,28000,3,0.1,75600.0,Debit Card,Mobile App,127,2026-02-04 20:52,No
+ORD0136,C009,51.0,Madurai,Fashion,Denim Jeans,2200,1,0.0,2200.0,Debit Card,Mobile App,40,2026-03-14 19:20,No
+ORD0137,C024,25.0,Hyderabad,Electronics,Headphones,4200,1,0.05,3990.0,UPI,Mobile App,54,2026-02-03 18:58,No
+ORD0138,C027,29.0,Coimbatore,Grocery,Basmati Rice (5kg),650,2,0.0,1300.0,Debit Card,Mobile App,35,2026-02-01 09:18,No
+ORD0139,C025,35.0,Bengaluru,Fashion,Running Shoes,3200,1,0.1,2880.0,Net Banking,Desktop,49,2026-03-04 11:42,No
+ORD0140,C020,53.0,Hyderabad,Grocery,Honey (500g),350,1,0.0,350.0,UPI,Desktop,22,2026-02-12 20:29,No
+ORD0141,C037,34.0,Coimbatore,Electronics,Mechanical Keyboard,2800,1,0.05,2660.0,Debit Card,Desktop,45,2026-03-05 21:57,No
+ORD0142,C012,28.0,Hyderabad,Grocery,Basmati Rice (5kg),650,3,0.05,1852.5,Debit Card,Mobile App,39,2026-02-18 20:53,No
+ORD0143,C018,54.0,Chennai,Home & Living,Cookware Set,4200,2,0.05,7980.0,Debit Card,Mobile App,61,2026-03-03 16:16,No
+ORD0144,C001,22.0,Coimbatore,Fashion,Cotton T-Shirt,850,1,0.0,850.0,Credit Card,Desktop,29,2026-02-05 18:11,No
+ORD0145,C025,44.0,Chennai,Home & Living,Memory Pillow,1800,2,0.1,3240.0,Debit Card,Mobile App,49,2026-02-20 15:38,No
+ORD0146,C015,34.0,Coimbatore,Home & Living,Desk Lamp,1400,1,0.05,1330.0,UPI,Mobile App,39,2026-03-16 12:03,No
+ORD0147,C025,22.0,Kochi,Home & Living,Cookware Set,4200,1,0.1,3780.0,Credit Card,Mobile App,47,2026-02-15 21:21,No
+ORD0148,C023,38.0,Hyderabad,Fashion,Leather Jacket,4500,2,0.0,9000.0,Debit Card,Mobile App,65,2026-03-10 21:59,No
+ORD0149,C004,49.0,Kochi,Electronics,Laptop,55000,2,0.05,104500.0,Debit Card,Mobile App,140,2026-03-09 19:54,No
+ORD0150,C027,45.0,Madurai,Fashion,Cotton T-Shirt,850,2,0.0,1700.0,Net Banking,Mobile App,41,2026-02-07 20:53,No
+ORD0151,C999,28.0,Madurai,Electronics,Laptop,55000,2,0.9,11000.0,COD,Desktop,1,2026-02-14 02:15,No
+ORD0152,C999,28.0,Madurai,Electronics,Laptop,55000,2,0.9,11000.0,COD,Desktop,1,2026-02-14 02:40,No
+ORD0153,C999,28.0,Madurai,Electronics,Laptop,55000,2,0.9,11000.0,COD,Desktop,1,2026-02-28 03:10,No
+ORD0154,C999,28.0,Madurai,Electronics,Laptop,55000,2,0.9,11000.0,COD,Desktop,1,2026-03-05 02:50,No
+ORD0155,C999,28.0,Madurai,Electronics,Laptop,55000,2,0.9,11000.0,COD,Desktop,1,2026-03-12 03:25,No
+ORD0156,C050,35.0,Bengaluru,Electronics,Laptop,50000,5,0.0,250000.0,Net Banking,Desktop,45,2026-02-20 14:30,No
+ORD0157,C011,25.0,Coimbatore,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-16 00:00,Yes
+ORD0158,C017,28.0,Kochi,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-17 00:00,Yes
+ORD0159,C025,27.0,Kochi,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-27 00:00,Yes
+ORD0160,C030,29.0,Kochi,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-03-01 00:00,Yes
+ORD0161,C014,27.0,Coimbatore,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-03-03 00:00,Yes
+ORD0162,C029,27.0,Kochi,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-28 00:00,Yes
+ORD0163,C015,25.0,Coimbatore,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-24 00:00,Yes
+ORD0164,C019,29.0,Coimbatore,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-22 00:00,Yes
+ORD0165,C014,21.0,Coimbatore,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-26 00:00,Yes
+ORD0166,C017,24.0,Kochi,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-17 00:00,Yes
+ORD0167,C014,26.0,Kochi,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-17 00:00,Yes
+ORD0168,C027,24.0,Coimbatore,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-24 00:00,Yes
+ORD0169,C016,21.0,Coimbatore,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-21 00:00,Yes
+ORD0170,C024,22.0,Kochi,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-17 00:00,Yes
+ORD0171,C010,26.0,Kochi,Fashion,Leather Jacket,4500,1,0.1,4050.0,UPI,Mobile App,18,2026-02-18 00:00,Yes
+ORD0006,C020,48.0,Chennai,Fashion,Denim Jeans,2200,3,0.0,6600.0,Credit Card,Desktop,58,2026-03-07 20:56,Yes
+ORD0007,C039,28.0,Chennai,Home & Living,Cookware Set,4200,1,0.0,4200.0,Net Banking,Tablet,50,2026-03-08 16:56,No
+ORD0008,C022,37.0,Kochi,Home & Living,Desk Lamp,1400,1,0.1,1260.0,UPI,Desktop,35,2026-03-02 09:12,No
+ORD0009,C010,37.0,Kochi,Grocery,Honey (500g),350,1,0.0,350.0,UPI,Tablet,28,2026-02-21 12:06,No
