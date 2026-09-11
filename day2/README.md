@@ -1,6 +1,6 @@
-# Day 2: The Data Detective Challenge — The Mystery of QuickMart's Leaking Profits
+The Data Detective Challenge — The Mystery of QuickMart's Leaking Profits
 
-Welcome to **Day 2** of your Data Analytics journey! 
+
 
 Today, you step out of the classroom and into the shoes of the **Lead Data Analyst & Retail Detective** at **QuickMart**, an online shopping platform.
 
@@ -79,7 +79,7 @@ print(f"Initial Crime Scene Dimensions: {df.shape[0]} rows, {df.shape[1]} column
 
 # 2. Find and remove duplicate records
 dup_count = df.duplicated().sum()
-print(f"🚨 Suspicious Duplicate Entries Found: {dup_count}")
+print(f" Suspicious Duplicate Entries Found: {dup_count}")
 df = df.drop_duplicates()
 print(f"✓ Crime scene secured. Verified rows remaining: {len(df)}")
 
@@ -145,7 +145,7 @@ print(f"Reality (Median Spend)     : ₹{median_val:,.2f}")
 
 # Spot the massive outlier
 top_order = df.sort_values(by="purchase_amount", ascending=False).iloc[0]
-print("\n🚨 THE MONSTER TRANSACTION:")
+print("\nTHE MONSTER TRANSACTION:")
 print(f"Order ID       : {top_order['order_id']}")
 print(f"Customer       : {top_order['customer_id']}")
 print(f"Product        : {top_order['product_name']} ({top_order['quantity']} units)")
@@ -362,7 +362,7 @@ Stand before your class (or type out your final pitch) as if addressing the Boar
 
 ---
 
-## Summary of Skills Learned on Day 2
+## Summary of Skills 
 
 | Mystery Mission | Data Analyst Skill Mastered |
 | :--- | :--- |
@@ -371,12 +371,3 @@ Stand before your class (or type out your final pitch) as if addressing the Boar
 | **Mission 3** | Used **Compound Boolean Filtering** to track fraud and rogue behavior. |
 | **Mission 4** | Used **Multi-Level GroupBy** to identify specific product/location operational issues. |
 | **Mission 5** | Converted code outputs into **Financial Impact** and **Prescriptive Business Actions**. |
-
----
-
-## How to Run This in Class
-
-1. Download [`mystery_ecommerce.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day2/mystery_ecommerce.csv).
-2. Open a fresh **Google Colab** notebook.
-3. Have students work through **Missions 1 to 5** one by one.
-4. Tally up their **XP Scorecard** at the end of class!
