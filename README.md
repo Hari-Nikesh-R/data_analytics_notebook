@@ -159,6 +159,4 @@ mystery_data = pd.read_csv("day2/mystery_ecommerce.csv")
 
 ---
 
-## 📬 Contributing & Issues
-
-Feel free to fork this repository, submit issues, or create pull requests to expand the datasets, add more case studies, or contribute additional challenges!
+Collab link : https://colab.research.google.com/drive/1TBjc0IoVtpQOlI2ADGNQclqqSQmKIq-e?usp=sharing
