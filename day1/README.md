@@ -23,10 +23,10 @@ flowchart TD
 
 All concepts and code examples in this roadmap utilize our unified **E-Commerce Dataset** available directly in the folder:
 
-- **Primary Dataset:** [`ecommerce.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1_/ecommerce.csv) (100 multi-category transaction records)
+- **Primary Dataset:** [`ecommerce.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1/ecommerce.csv) (100 multi-category transaction records)
 - **Relational Tables (for Joins & Merging):** 
-  - [`customers.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1_/customers.csv) — Customer Master (`customer_id`, `name`, `age`, `city`)
-  - [`orders.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1_/orders.csv) — Order Transactions (`order_id`, `customer_id`, `product_category`, `product_name`, `price`, `quantity`, `discount_pct`, `purchase_amount`, `payment_method`, `device`, `session_duration_mins`, `order_date`, `returned`)
+  - [`customers.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1/customers.csv) — Customer Master (`customer_id`, `name`, `age`, `city`)
+  - [`orders.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1/orders.csv) — Order Transactions (`order_id`, `customer_id`, `product_category`, `product_name`, `price`, `quantity`, `discount_pct`, `purchase_amount`, `payment_method`, `device`, `session_duration_mins`, `order_date`, `returned`)
 
 ---
 
@@ -481,13 +481,13 @@ Common aggregation functions:
 
 In real e-commerce systems, customer profiles and order transactions are stored in separate tables to avoid redundant data.
 
-#### Customers Table ([`customers.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1_/customers.csv))
+#### Customers Table ([`customers.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1/customers.csv))
 | customer_id | name | age | city |
 | :--- | :--- | :--- | :--- |
 | C001 | Arun | 21 | Chennai |
 | C002 | Priya | 25 | Coimbatore |
 
-#### Orders Table ([`orders.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1_/orders.csv))
+#### Orders Table ([`orders.csv`](file:///Users/harinikesh/Downloads/data_analytics_notebook/day1/orders.csv))
 | order_id | customer_id | product_category | purchase_amount |
 | :--- | :--- | :--- | :--- |
 | ORD001 | C001 | Electronics | 54000.0 |
